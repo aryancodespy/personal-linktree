@@ -50,3 +50,12 @@ button:hover, button:active {
     box-shadow: 0px 15px 20px rgba(65, 105, 255, 0.5);
     transform: translateY(-4px), translateX(-4px);
 }
+
+a {
+    color: wheat;
+}
+
+a:hover {
+    color: royalblue;
+    font-weight: bolder;
+}
