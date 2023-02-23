@@ -1,6 +1,7 @@
 body {
     background: url(./images/background.png);
     background-attachment: fixed;
+    color: #fff;
 }
 
 .container {
@@ -15,7 +16,7 @@ body {
 
 .profile-picture {
     border-radius: 50%;
-    width: 100px;
+    width: 150px;
     height: auto;
     border: 1px solid burlywood;
 }
