@@ -1,13 +1,12 @@
 body {
     background: url(./images/background.png);
-    background-attachment: fixed;
     color: #fff;
 }
 
 .container {
     text-align: center;
-    width: 80%;
-    max-width: 500px;
+    width: 70%;
+    max-width: 400px;
     margin: 50px auto;
     padding: 25px;
     background-color: rgba(0, 0, 0, 0.5);
