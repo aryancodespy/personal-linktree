@@ -1,6 +1,6 @@
 body {
     background: url(./images/background.png);
-    background-attachment: scroll;
+    background-attachment: fixed;
 }
 
 .container {
@@ -9,6 +9,8 @@ body {
     max-width: 500px;
     margin: 100px auto;
     padding: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
 }
 
 .profile-picture {
