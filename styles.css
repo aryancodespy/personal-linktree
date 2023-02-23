@@ -5,3 +5,10 @@
     margin: 50px auto;
     padding: 50px;
 }
+
+.profile-picture {
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    border: 1px solid burlywood;
+}
