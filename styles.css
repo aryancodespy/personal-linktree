@@ -65,6 +65,8 @@ footer {
 
 #icon {
     width: 25px;
+    max-width: 30px;
+    height: auto;
     padding: 10px;
 }
 
